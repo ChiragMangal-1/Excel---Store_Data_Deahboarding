@@ -1,4 +1,2 @@
 # Excel---Store_Data_Deahboarding
-# Fristly - Converting Raw data into actionable data
-# track kpi & create deshboard with maps 
-# finally give conclusion 
+# Converting raw data into insights through KPIs, dashboards, and analysis through Excel & also Automate the dashboard 
